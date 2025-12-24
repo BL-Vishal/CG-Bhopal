@@ -4,7 +4,7 @@
 .recommenders/
 .project
 .classpath
-
+/Gcr-Code-Base/.metadata/
 # Java
 bin/
 target/
