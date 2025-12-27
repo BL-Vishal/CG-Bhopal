@@ -1,1 +1,14 @@
 /Gcr-Code-Base/.metadata
+
+# Eclipse / IDE files
+.settings/
+.classpath
+.project
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
